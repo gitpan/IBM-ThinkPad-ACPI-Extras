@@ -1,0 +1,6 @@
+Revision history for Perl extension IBM::ThinkPad::ACPI::Extras.
+
+0.01  Tue Jun  2 13:47:57 2009
+	- original version; created by h2xs 1.23 with options
+		-XAn IBM::ThinkPad::ACPI::Extras
+
