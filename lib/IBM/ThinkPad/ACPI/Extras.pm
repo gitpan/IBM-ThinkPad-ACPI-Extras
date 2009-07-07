@@ -216,7 +216,7 @@ END {
 
 =head1 NAME
 
-IBM::ThinkPad::ACPI::Extras - Provides an interface to the IBM ThinkPad ACPI features
+IBM::ThinkPad::ACPI::Extras - Perl interface to the IBM ThinkPad ACPI features
 
 =head1 SYNOPSIS
 
@@ -259,7 +259,7 @@ $feature file and looks there for the $keyword (e.g. status).
 =item B<tp_extras_write($feature, $command)>
 
 The C<tp_extras_write> method is called to send the $command
-to the corresponds $feature file.
+to the corresponding $feature file.
 
 =back
 
